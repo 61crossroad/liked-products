@@ -10,6 +10,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class ProductRepository {
 
+    private final ProductJpaRepository jpaRepository;
     private final NamedParameterJdbcTemplate jdbcTemplate;
 
     // 예시 메서드입니다.

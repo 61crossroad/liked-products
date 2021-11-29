@@ -1,4 +1,4 @@
-package ncode.payload;
+package ncode.web.payload;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package ncode.controller;
+package ncode.web;
 
 public class ProductController {
 
